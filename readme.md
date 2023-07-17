@@ -7,7 +7,7 @@
   
 # Sobre o programa:
 
-  Este é apenas um programa básico para me auxiliar no dia a dia. O site em questão se trata de uma plataforma de estudos em inglês e o caminho que ele está seguindo é para consultar sobre a disponibilidade de horário com professores. A tarefa de seguir todo esse caminho agora é automatizada :D, facilitando conseguir melhores horários para estudar.
+  Este é apenas um programa básico para me auxiliar no dia a dia. O site em questão se trata de uma plataforma de estudos em inglês e o caminho que ele está seguindo é para consultar sobre a disponibilidade de horário com professores. A tarefa de seguir todo esse caminho agora é automatizada :D, facilitando conseguir melhores horários para estudar. Usa o webbrowser, pyautogui and time para controlar a automação.
   
   
   ![image](https://user-images.githubusercontent.com/95552879/152449716-2d829964-b8f2-4a5c-8d1b-095eb5d09abd.png)
