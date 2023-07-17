@@ -1,6 +1,6 @@
 # 00_web_task_automator.py
 
-# Linguagem utilizada:
+# Programming Language:
 
   - Python 3.9.7
   - Runs on your Python interpreter.
