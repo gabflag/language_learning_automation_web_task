@@ -3,21 +3,19 @@
 # Linguagem utilizada:
 
   - Python 3.9.7
-  - Roda no seu interpretador Python.
+  - Runs on your Python interpreter.
   
-# Sobre o programa:
+# About the program:
 
-  Este é apenas um programa básico para me auxiliar no dia a dia. O site em questão se trata de uma plataforma de estudos em inglês e o caminho que ele está seguindo é para consultar sobre a disponibilidade de horário com professores. A tarefa de seguir todo esse caminho agora é automatizada :D, facilitando conseguir melhores horários para estudar. Usa o webbrowser, pyautogui and time para controlar a automação.
-  
+  This is just a basic program to assist me in my daily tasks. The website in question is an English learning platform, and the path it follows is to check for teacher availability. The task of navigating through this path is now automated :D, making it easier to secure better study time slots. It utilizes webbrowser, pyautogui, and time modules for automation control.
   
   ![image](https://user-images.githubusercontent.com/95552879/152449716-2d829964-b8f2-4a5c-8d1b-095eb5d09abd.png)
 
   
-# Considerações importantes:
+# Important considerations:
 
-  Os paramentros passados do plano cartesiano levaram em consideração as dimensões do meu monitor e botões do site.
-  Sugestão para adptar para seu programa, inicialmente descubra os pontos com esse bloco de código:
-  
+  The coordinates used in the Cartesian plane consider the dimensions of my monitor and the website buttons. I suggest adapting them to your program by initially discovering the points with the following code block:
+
           '''
           Mostra a posição atual do cursos do mouse.
           '''
@@ -26,10 +24,10 @@
             print(pyautogui.position())
 
 
-# Conceitos abordados:
+# Covered concepts:
 
     - Módulos: webbrowser, pyautogui and time
     
-# Observações:
+# Remarks:
 
-  Considero um projeto interessante para fortalecer a idea que tudo pode ser automatizado. Fixa um pouco de cada módulo e acredito que possa ser adptado para outras tarefas. Com certeza nesse terá erros de lógica e ausencia de um algoritimo melhor,  entretanto, espero sua compreensão e que de alguma forma te ajude. Aprecio sugestões para melhorar. Forte abraço.
+  I consider this an interesting project to reinforce the idea that everything can be automated. It touches on different aspects of each module and can be adapted for other tasks. There will definitely be logic errors and room for better algorithms, but I hope it helps you in some way. I appreciate any suggestions for improvement. Best regards.
